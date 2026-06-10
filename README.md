@@ -16,7 +16,7 @@ The application communicates with an ASP.NET REST API to handle data processing 
 
 The project is developed using the following technologies:
 
-* Python
+* Java
 * C#
 * REST APIs
 * Entity Framework Core
